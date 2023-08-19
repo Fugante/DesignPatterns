@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PizzaStore.CLI/1.0.0": {
+        "dependencies": {
+          "PizzaStore": "1.0.0"
+        },
+        "runtime": {
+          "PizzaStore.CLI.dll": {}
+        }
+      },
+      "PizzaStore/1.0.0": {
+        "runtime": {
+          "PizzaStore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaStore.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

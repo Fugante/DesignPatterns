@@ -1,0 +1,12 @@
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.csproj.AssemblyReference.cache
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.GeneratedMSBuildEditorConfig.editorconfig
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.AssemblyInfoInputs.cache
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.AssemblyInfo.cs
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.csproj.CoreCompileInputs.cache
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/bin/Debug/net7.0/Ducks.deps.json
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/bin/Debug/net7.0/Ducks.dll
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/bin/Debug/net7.0/Ducks.pdb
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.dll
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/refint/Ducks.dll
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/Ducks.pdb
+/home/langtano/Projects/DesignPatterns/Ducks/Ducks/obj/Debug/net7.0/ref/Ducks.dll

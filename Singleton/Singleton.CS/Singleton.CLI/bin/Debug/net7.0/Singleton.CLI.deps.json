@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Singleton.CLI/1.0.0": {
+        "dependencies": {
+          "Singleton": "1.0.0"
+        },
+        "runtime": {
+          "Singleton.CLI.dll": {}
+        }
+      },
+      "Singleton/1.0.0": {
+        "runtime": {
+          "Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singleton.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

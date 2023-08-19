@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4p4xDHzoMViB+zQoTMWrWW6bvvB0Blrs/zWsrlxXSsvvbNI9ItjKW1owGy4savmWlKP66fFSV+WBZDkcMeSww==",
+  "success": true,
+  "projectFilePath": "/home/langtano/Projects/DesignPatterns/Starbuzz/Starbuzz.CS/Starbuzz/Starbuzz.csproj",
+  "expectedPackageFiles": [
+    "/home/langtano/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

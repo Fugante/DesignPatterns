@@ -1,0 +1,12 @@
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.csproj.AssemblyReference.cache
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.GeneratedMSBuildEditorConfig.editorconfig
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.AssemblyInfoInputs.cache
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.AssemblyInfo.cs
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.csproj.CoreCompileInputs.cache
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/bin/Debug/net7.0/WeatherData.deps.json
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/bin/Debug/net7.0/WeatherData.dll
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/bin/Debug/net7.0/WeatherData.pdb
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.dll
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/refint/WeatherData.dll
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/WeatherData.pdb
+/home/langtano/Projects/DesignPatterns/WeatherData/WeatherData.CS/WeatherData/obj/Debug/net7.0/ref/WeatherData.dll

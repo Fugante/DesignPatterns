@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ducks.CLI/1.0.0": {
+        "dependencies": {
+          "Ducks": "1.0.0"
+        },
+        "runtime": {
+          "Ducks.CLI.dll": {}
+        }
+      },
+      "Ducks/1.0.0": {
+        "runtime": {
+          "Ducks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ducks.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ducks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

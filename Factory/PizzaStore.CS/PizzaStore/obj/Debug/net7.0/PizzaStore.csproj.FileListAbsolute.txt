@@ -1,0 +1,12 @@
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.AssemblyReference.cache
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfoInputs.cache
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.AssemblyInfo.cs
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.csproj.CoreCompileInputs.cache
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/bin/Debug/net7.0/PizzaStore.deps.json
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/bin/Debug/net7.0/PizzaStore.dll
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/bin/Debug/net7.0/PizzaStore.pdb
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.dll
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/refint/PizzaStore.dll
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/PizzaStore.pdb
+/home/langtano/Projects/DesignPatterns/PizzaStore/PizzaStore.CS/PizzaStore/obj/Debug/net7.0/ref/PizzaStore.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXfgI99HtWtgqvw85u1tZxHhIZ/9X27Zx3osZFeFgOwKdPI5Tx99luNeIOJQ5Ek5g0vRY0C8AuMgi78/q4OVLg==",
+  "success": true,
+  "projectFilePath": "/home/langtano/Projects/DesignPatterns/Command/Command.CS/Command.CLI/Command.CLI.csproj",
+  "expectedPackageFiles": [
+    "/home/langtano/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

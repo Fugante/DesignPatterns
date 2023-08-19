@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qToBraeA8ANiuPjnTOBFBdSlZFvy0LxL1kidp7InJ2IQjbZaOYBQThWhGx8UrD4rJzmgV34OorkYb2pSrTLqsA==",
+  "success": true,
+  "projectFilePath": "/home/langtano/Projects/DesignPatterns/Singleton/Singleton.CS/Singleton.CLI/Singleton.CLI.csproj",
+  "expectedPackageFiles": [
+    "/home/langtano/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
