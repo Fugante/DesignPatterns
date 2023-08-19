@@ -1,0 +1,9 @@
+# .NET files #
+###################
+
+*.dll
+*.pdb
+*.cache
+apphost
+*.dgspec.json
+*.assets.json
