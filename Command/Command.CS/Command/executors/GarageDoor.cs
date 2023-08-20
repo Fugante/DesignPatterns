@@ -3,28 +3,34 @@ namespace CommandPattern.Executors;
 
 public class GarageDoor
 {
+    public string Name { get; }
+
+    public GarageDoor(string name)
+    {
+        this.Name = $"{name} door";
+    }
     public void Up()
     {
-        Console.WriteLine("Garage door is open");
+        Console.WriteLine($"{this.Name} is open");
     }
 
     public void Down()
     {
-        Console.WriteLine("Garage door is closed");
+        Console.WriteLine($"{this.Name} is closed");
     }
 
     public void Stop()
     {
-        Console.WriteLine("Stopping action");
+        Console.WriteLine($"{this.Name} stopping action");
     }
 
     public void LightOn()
     {
-        Console.WriteLine("Garage door light is on");
+        Console.WriteLine($"{this.Name} light is on");
     }
 
     public void LightOff()
     {
-        Console.WriteLine("Garage door light is off");
+        Console.WriteLine($"{this.Name} light is off");
     }
 }
