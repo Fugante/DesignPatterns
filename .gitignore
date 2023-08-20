@@ -7,3 +7,5 @@
 apphost
 *.dgspec.json
 *.assets.json
+*.deps.json
+*.runtimeconfig.json
