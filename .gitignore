@@ -1,6 +1,5 @@
 # .NET files #
 ###################
-
 *.dll
 *.pdb
 *.cache
@@ -9,3 +8,8 @@ apphost
 *.assets.json
 *.deps.json
 *.runtimeconfig.json
+
+# Python files #
+####################
+*.pyc
+pyproject.toml
