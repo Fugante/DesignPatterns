@@ -6,7 +6,7 @@ class Amplifier:
         self.volume: int = None
  
     def __repr__(self) -> str:
-        return f"{self.__class__.__name__}()"
+        return f"{self.__class__.__name__}(self)"
 
     def on(self) -> None:
         print("Amplifier on")
@@ -17,7 +17,7 @@ class Amplifier:
     def set_stereo_sound(self) -> None:
         print("Stereo sound")
 
-    def set_surround_sound() -> None:
+    def set_surround_sound(self) -> None:
         print("Surround sound")
 
 
@@ -82,14 +82,56 @@ class Projector:
     def __repr__(self) -> str:
         return f"{self.__class__.__name__}({self.player})"
 
-    def on() -> None:
+    def on(self) -> None:
         print("Proyector on")
 
-    def off() -> None:
+    def off(self) -> None:
         print("Proyector off")
 
-    def tv_mode() -> None:
+    def tv_mode(self) -> None:
         print("TV mode")
 
-    def wide_screen_mode() -> None:
+    def wide_screen_mode(self) -> None:
         print("Wide screen mode")
+
+
+class PopcornPopper:
+    def __repr__(self) -> str:
+        return f"{self.__class__.__name__}()"
+
+    def on(self):
+        print("Popcorn popper on")
+
+    def off(self):
+        print("Popcorn popper off")
+
+    def pop(self):
+        print("Popping popcorns!")
+
+
+class Screen:
+    def __repr__(self) -> str:
+        return f"{self.__class__.__name__}()"
+
+    def up(self):
+        print("Screen is up")
+
+    def down(self):
+        print("Screen is down")
+
+
+class TheaterLights:
+    def __init__(self) -> None:
+        self.intensity: int = 0
+
+    def __repr__(self) -> str:
+        return f"{self.__class__.__name__}()"
+
+    def on(self):
+        print("Theater lights on")
+
+    def off(self):
+        print("Theater lights off")
+
+    def dim(self, intensity: int) -> None:
+        self.intensity = intensity
