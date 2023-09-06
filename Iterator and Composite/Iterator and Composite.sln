@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator and Composite", "Iterator and Composite\Iterator and Composite.csproj", "{7508247C-8DB2-463C-A866-AC848740ADA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator and Composite.CLI", "Iterator and Composite.CLI\Iterator and Composite.CLI.csproj", "{BFE37344-2C74-4B25-B510-466FC62EDF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7508247C-8DB2-463C-A866-AC848740ADA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7508247C-8DB2-463C-A866-AC848740ADA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7508247C-8DB2-463C-A866-AC848740ADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7508247C-8DB2-463C-A866-AC848740ADA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE37344-2C74-4B25-B510-466FC62EDF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE37344-2C74-4B25-B510-466FC62EDF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE37344-2C74-4B25-B510-466FC62EDF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE37344-2C74-4B25-B510-466FC62EDF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50DF0249-5991-4E42-AFC6-C98641BE837C}
+	EndGlobalSection
+EndGlobal
