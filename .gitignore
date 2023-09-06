@@ -8,8 +8,13 @@ apphost
 *.assets.json
 *.deps.json
 *.runtimeconfig.json
+Debug/
+Release/
+obj/
 
 # Python files #
 ####################
 *.pyc
 pyproject.toml
+
+.vs
